@@ -8,7 +8,7 @@
  This is bad code but is used to demonstrate how to use repositories on github.
  
  If we have an analog sensor such as a trimpot or flex sensor on A0, this code would attempt
- to read it and output it to the terminal at 9600bps.
+ to read it and output it to the terminal at 38400bps.
 */
 
 void setup()
